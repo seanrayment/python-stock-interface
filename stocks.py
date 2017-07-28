@@ -2,6 +2,12 @@ import json
 import urllib.request
 from termcolor import colored
 
+'''
+
+Data provided for free by IEX
+
+'''
+
 shouldExit = False
 
 while not shouldExit:
